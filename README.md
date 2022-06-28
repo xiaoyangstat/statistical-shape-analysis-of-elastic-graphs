@@ -12,7 +12,7 @@ This repository contains code to statistically analyze elastic graphical shapes.
 
 `demo2DEGStatisticalAnalysis.m`
 
-Please also read `doc\elastic_graph_data_structure.pdf` to understand the EG data structure. 
+Please also read `doc\elastic_graph_data_structure.pdf` to understand the EG data structure.
 
 ## Brain Artery Data
 
@@ -30,10 +30,14 @@ The orignal data could be downloaded [here](https://projecteuclid.org/journals/a
   year={2020}
 }
 
-@article{guo2020statistical,
-  title={Statistical shape analysis of brain arterial networks (BAN)},
+@article{guo2022statistical,
+  title={Statistical shape analysis of brain arterial networks (ban)},
   author={Guo, Xiaoyang and Bal, Aditi Basu and Needham, Tom and Srivastava, Anuj},
-  journal={arXiv preprint arXiv:2007.04793},
-  year={2020}
+  journal={The Annals of Applied Statistics},
+  volume={16},
+  number={2},
+  pages={1130--1150},
+  year={2022},
+  publisher={Institute of Mathematical Statistics}
 }
 ```
